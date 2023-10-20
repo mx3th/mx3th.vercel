@@ -1,0 +1,39 @@
+---
+const skills = [
+  { skill: "JavaScript" },
+  { skill: "TypeScript" },
+  { skill: "Python"},
+  { skill: "HTML"},
+  { skill: "CSS"},
+  { skill: "Git" },
+  { skill: "Hugo" },
+  { skill: "Astro" },
+  { skill: "Godot"},
+  { skill: "Lua" },
+];
+---
+<section class="mx-auto max-w-5xl sm:px-6 sm:border-l sm:border-primary-700/40 mt-16">
+    <div class="grid grid-cols-1 gap-y-8 items-baseline md:grid-cols-4">
+      <h2 class="text-lg font-semibold tracking-tight sm:text-xl text-primary-100">
+        Skills
+      </h2>
+      <div class="md:col-span-3">
+        <ul role="list" class="space-x-1 flex">
+          {skills.map((skill, index) => (
+            <li class="flex items-start">
+              <div class={`flex flex-row justify-between items-baseline pl-2 w-full ${index === 0 ? 'border-l border-primary-700' : ''}`}>
+                <img
+                  decoding="async"
+                  loading="lazy"
+                  src={`/images/svg/${skill.skill.toLowerCase()}.svg`}
+                  class="w-10 h-10 shadow-md shadow-primary-800/5 ring-primary-900"
+                  alt={skill.skill}
+                />
+              </div>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+  </section>
+  

@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="512pt"
+    height="512pt"
+    viewBox="0 0 512 512">
+<defs>
+  <linearGradient id="gradient0" gradientTransform="matrix(0.562541 0 0 0.567972 -0.182165882852163 -0.140831790301914)" gradientUnits="objectBoundingBox" x1="0.323826847950082" y1="0.247955509639769" x2="1.64854794317293" y2="1.37671491296124" spreadMethod="pad">
+   <stop stop-color="#5a9fd4" offset="0" stop-opacity="1"/>
+   <stop stop-color="#306998" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <linearGradient id="gradient1" gradientTransform="matrix(0.562541 0 0 0.567972 -0.334050060938374 -0.287621439541992)" gradientUnits="objectBoundingBox" x1="1.48264758068141" y1="1.95498634973" x2="1.01055144507795" y2="1.29718670679667" spreadMethod="pad">
+   <stop stop-color="#ffd43b" offset="0" stop-opacity="1"/>
+   <stop stop-color="#ffe873" offset="1" stop-opacity="1"/>
+  </linearGradient>
+  <radialGradient id="gradient2" gradientTransform="matrix(1.7490565e-08 -0.23994696 5.43900606066394 1.955330022489e-06 -83.7008 142.46201)" gradientUnits="objectBoundingBox" cx="0.499999825457014" cy="0.0969541281649671" fx="0.499999825457014" fy="0.0969541281649671" r="0.404065174737664" spreadMethod="pad">
+   <stop stop-color="#b8b8b8" offset="0" stop-opacity="0.498039215686275"/>
+   <stop stop-color="#7f7f7f" offset="1" stop-opacity="0"/>
+  </radialGradient>
+ </defs>
+<path id="path1948" transform="matrix(4.49962495715297 0 0 4.49962495715296 5.90777600490581 3.48676259898296)" fill="url(#gradient0)" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M54.9188 0.000919272C50.3351 0.0222173 45.9578 0.413137 42.1063 1.09467C30.7601 3.09917 28.7 7.29477 28.7 15.0322L28.7 25.2509L55.5125 25.2509L55.5125 28.6572L28.7 28.6572L18.6375 28.6572C10.8451 28.6572 4.02178 33.3409 1.88754 42.2509C-0.574286 52.4639 -0.683481 58.8369 1.88754 69.5009C3.79346 77.4388 8.34508 83.0947 16.1375 83.0947L25.3563 83.0947L25.3563 70.8447C25.3563 61.9948 33.0134 54.1884 42.1063 54.1884L68.8875 54.1884C76.3425 54.1884 82.2938 48.0503 82.2938 40.5634L82.2938 15.0322C82.2938 7.76583 76.1638 2.30739 68.8875 1.09467C64.2815 0.327944 59.5024 -0.020379 54.9188 0.000919272ZM40.4188 8.21967C43.1883 8.21967 45.45 10.5183 45.45 13.3447C45.45 16.161 43.1883 18.4384 40.4188 18.4384C37.6393 18.4384 35.3875 16.161 35.3875 13.3447C35.3875 10.5183 37.6393 8.21967 40.4188 8.21967Z" sodipodi:nodetypes="cccccccccccccccccccccccc"/><path id="path1950" transform="matrix(4.49962495715297 0 0 4.49962495715296 135.047164964789 132.433275423801)" fill="url(#gradient1)" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" d="M56.9375 3.55271e-15L56.9375 11.9063C56.9375 21.137 49.1116 28.9062 40.1875 28.9063L13.4063 28.9063C6.07042 28.9063 1e-06 35.1847 0 42.5313L0 68.0625C0 75.3288 6.31859 79.6028 13.4063 81.6875C21.8936 84.1831 30.0325 84.6341 40.1875 81.6875C46.9377 79.7331 53.5938 75.7999 53.5938 68.0625L53.5938 57.8438L26.8125 57.8438L26.8125 54.4375L53.5938 54.4375L67 54.4375C74.7925 54.4375 77.6963 49.0021 80.4062 40.8438C83.2056 32.4449 83.0865 24.368 80.4062 13.5938C78.4805 5.83631 74.8024 0 67 0ZM41.875 64.6563C44.6545 64.6563 46.9063 66.9337 46.9063 69.75C46.9062 72.5764 44.6545 74.875 41.875 74.875C39.1055 74.875 36.8438 72.5764 36.8438 69.75C36.8438 66.9337 39.1054 64.6562 41.875 64.6563Z" sodipodi:nodetypes="ccccccccccccccccccccccc"/><ellipse id="path1894" transform="matrix(4.49962495715297 0 0 4.49962495715296 95.3863411865778 546.742133812691)" rx="35.930977" ry="6.9673119" cx="35.930977" cy="6.9673119" opacity="0.44382" fill="url(#gradient2)" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel"/>
+</svg>
