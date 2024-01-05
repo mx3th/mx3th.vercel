@@ -20,6 +20,6 @@ Avoid hitting the boundries of the test chamber as well as various stationary an
 
 Features 8 playable levels and an in-game tutorial.
 
-## Devlog
+## View the source code
 
-Coming soon.
+[GitHub Repository](https://github.com/mx3th/Rocket-Jump-Game)
