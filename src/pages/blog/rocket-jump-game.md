@@ -3,7 +3,7 @@ layout: ../../layout/MarkdownLayout.astro
 title: Rocket Jump Game Devlog
 description: "A prototype physics based platforming game about landing rocket ships. Built in Godot 4.0."
 pubDate: 2023-10-25
-tags: ["Game Dev"]
+tags: ["Game Dev", "Development", "Godot"]
 ---
 
 # Rocket Jump
